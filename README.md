@@ -1,4 +1,4 @@
-cbt-example-app
-===============
+TestGang Example Android application
+====================================
 
-cbt-example-app
+Used for testing and demonstrating various testing frameworks
